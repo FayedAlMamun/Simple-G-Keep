@@ -37,6 +37,9 @@ input:focus,textarea:focus{
 .icon{
     color:orange;
 }
+.error{
+    color: red;
+}
 @media only screen and (max-width: 1025px) {
     .second {
         width: 75%;
